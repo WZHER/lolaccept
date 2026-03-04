@@ -1,0 +1,68 @@
+[
+  {
+    "name": "测试玩家1(通天带)",
+    "games": 50,
+    "wins": 30,
+    "losses": 20,
+    "win_rate": "60%",
+    "kda": "3.5",
+    "score": 148.5,
+    "level": "通天带",
+    "level_color": "#F44336"
+  },
+  {
+    "name": "测试玩家2(小代)",
+    "games": 45,
+    "wins": 22,
+    "losses": 23,
+    "win_rate": "49%",
+    "kda": "2.8",
+    "score": 135.2,
+    "level": "小代",
+    "level_color": "#9C27B0"
+  },
+  {
+    "name": "测试玩家3(上等马)",
+    "games": 60,
+    "wins": 42,
+    "losses": 18,
+    "win_rate": "70%",
+    "kda": "4.2",
+    "score": 128.0,
+    "level": "上等马",
+    "level_color": "#2196F3"
+  },
+  {
+    "name": "测试玩家4(中等马)",
+    "games": 38,
+    "wins": 15,
+    "losses": 23,
+    "win_rate": "39%",
+    "kda": "2.1",
+    "score": 105.5,
+    "level": "中等马",
+    "level_color": "#FF9800"
+  },
+  {
+    "name": "测试玩家5(下等马)",
+    "games": 42,
+    "wins": 18,
+    "losses": 24,
+    "win_rate": "43%",
+    "kda": "2.3",
+    "score": 92.0,
+    "level": "下等马",
+    "level_color": "#FF5722"
+  },
+  {
+    "name": "测试玩家6(牛马)",
+    "games": 30,
+    "wins": 8,
+    "losses": 22,
+    "win_rate": "27%",
+    "kda": "1.5",
+    "score": 78.5,
+    "level": "牛马",
+    "level_color": "#9E9E9E"
+  }
+]
